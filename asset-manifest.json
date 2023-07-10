@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/maxCourse_ReactMeals-app/static/css/main.6d7b1e1d.css",
+    "main.js": "/maxCourse_ReactMeals-app/static/js/main.b86b837d.js",
+    "static/media/meals.jpg": "/maxCourse_ReactMeals-app/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/maxCourse_ReactMeals-app/index.html",
+    "main.6d7b1e1d.css.map": "/maxCourse_ReactMeals-app/static/css/main.6d7b1e1d.css.map",
+    "main.b86b837d.js.map": "/maxCourse_ReactMeals-app/static/js/main.b86b837d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d7b1e1d.css",
+    "static/js/main.b86b837d.js"
+  ]
+}
